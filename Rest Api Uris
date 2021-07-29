@@ -1,0 +1,29 @@
+Swagger-UI
+---------------------------------------------------------------------------------
+http://localhost:8081/swagger-ui.html
+---------------------------------------------------------------------------------
+
+User Api's
+---------------------------------------------------------------------------------
+http://localhost:8081/users/user/create
+http://localhost:8081/users/multiUsers/create
+http://localhost:8081/users/id/1
+http://localhost:8081/users/allusers
+http://localhost:8081/users/id/1/newAge/60
+http://localhost:8081/users/delete/id/3
+---------------------------------------------------------------------------------
+
+
+
+Sales Employees API's
+---------------------------------------------------------------------------------
+http://localhost:8081/Sales/SalesUsersid/{id}
+http://localhost:8081/Sales/GetAllSales
+http://localhost:8081/Sales/SalesUsersid/{id}/effectivediscount/{effectivediscount}
+http://localhost:8081/Sales/delete/SalesUsersid/{id}
+http://localhost:8081/Sales/SalesUsers/create
+http://localhost:8081/Sales/multiSalesUsers/create
+http://localhost:8081/Sales/Sqlquery
+http://localhost:8081/Sales/UpdateBySalesUsersid/{id}
+
+---------------------------------------------------------------------------------
